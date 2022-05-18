@@ -1,6 +1,6 @@
 # NOTAS.
 
-``
+```
 Options:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
@@ -8,4 +8,4 @@ Options:
   -l, --listar   Muestra la impresión en consola de la tabla
                                            [boolean] [required] [default: false]
   -h, --hasta    Hasta donde termina la tabla  [number] [required] [default: 10]
-  ``
+  ```
