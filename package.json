@@ -1,0 +1,16 @@
+{
+  "name": "seccion-4",
+  "version": "0.0.1",
+  "description": "Simple tabla de multiplicar con archivo de texto",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node app --base=6"
+  },
+  "author": "Samuel Tirzo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.0.0",
+    "yargs": "^17.5.0"
+  }
+}
